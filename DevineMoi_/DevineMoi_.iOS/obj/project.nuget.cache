@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxs0qQsXNv8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_.iOS\\DevineMoi_.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABOU-BAKARI\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ABOU-BAKARI\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ABOU-BAKARI\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

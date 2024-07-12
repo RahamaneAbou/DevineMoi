@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DevineMoi_.Views.AcceuillPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="puzzle.png"  WidthRequest="200" Margin="0,40,0,0"/>
+            <Label Text="Bienvenue sur le jeux DevineMoi"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   FontSize="20"/>
+            <Frame BorderColor="Green"
+               CornerRadius="5"
+               HasShadow="False"
+               Padding="0"
+                   Margin="0,0,0,100">
+                <Button Text="Entrer " Margin="0,0,0,10" WidthRequest="20" HeightRequest="40" BackgroundColor="Green" Clicked="Btn_Clicked"/>
+            </Frame>
+            <Label Text="Powered by ABOU-BAKARI Rahamane"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

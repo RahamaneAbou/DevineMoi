@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBDECA6-85DD-401F-A979-BAC8528F79A5}|DevineMoi_\\DevineMoi_.Android\\DevineMoi_.Android.csproj|c:\\users\\abou-bakari\\source\\repos\\devinemoi\\devinemoi_\\devinemoi_.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFBDECA6-85DD-401F-A979-BAC8528F79A5}|DevineMoi_\\DevineMoi_.Android\\DevineMoi_.Android.csproj|solutionrelative:devinemoi_\\devinemoi_.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270F99E7-FD5E-4451-9379-999080681EB2}|DevineMoi_\\DevineMoi_\\DevineMoi_.csproj|c:\\users\\abou-bakari\\source\\repos\\devinemoi\\devinemoi_\\devinemoi_\\views\\acceuillpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{270F99E7-FD5E-4451-9379-999080681EB2}|DevineMoi_\\DevineMoi_\\DevineMoi_.csproj|solutionrelative:devinemoi_\\devinemoi_\\views\\acceuillpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270F99E7-FD5E-4451-9379-999080681EB2}|DevineMoi_\\DevineMoi_\\DevineMoi_.csproj|c:\\users\\abou-bakari\\source\\repos\\devinemoi\\devinemoi_\\devinemoi_\\views\\acceuillpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270F99E7-FD5E-4451-9379-999080681EB2}|DevineMoi_\\DevineMoi_\\DevineMoi_.csproj|solutionrelative:devinemoi_\\devinemoi_\\views\\acceuillpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBDECA6-85DD-401F-A979-BAC8528F79A5}|DevineMoi_\\DevineMoi_.Android\\DevineMoi_.Android.csproj|c:\\users\\abou-bakari\\source\\repos\\devinemoi\\devinemoi_\\devinemoi_.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EFBDECA6-85DD-401F-A979-BAC8528F79A5}|DevineMoi_\\DevineMoi_.Android\\DevineMoi_.Android.csproj|solutionrelative:devinemoi_\\devinemoi_.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270F99E7-FD5E-4451-9379-999080681EB2}|DevineMoi_\\DevineMoi_\\DevineMoi_.csproj|c:\\users\\abou-bakari\\source\\repos\\devinemoi\\devinemoi_\\devinemoi_\\views\\jeuxpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{270F99E7-FD5E-4451-9379-999080681EB2}|DevineMoi_\\DevineMoi_\\DevineMoi_.csproj|solutionrelative:devinemoi_\\devinemoi_\\views\\jeuxpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270F99E7-FD5E-4451-9379-999080681EB2}|DevineMoi_\\DevineMoi_\\DevineMoi_.csproj|c:\\users\\abou-bakari\\source\\repos\\devinemoi\\devinemoi_\\devinemoi_\\views\\jeuxpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270F99E7-FD5E-4451-9379-999080681EB2}|DevineMoi_\\DevineMoi_\\DevineMoi_.csproj|solutionrelative:devinemoi_\\devinemoi_\\views\\jeuxpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JeuxPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_\\Views\\JeuxPage.xaml",
+              "RelativeDocumentMoniker": "DevineMoi_\\DevineMoi_\\Views\\JeuxPage.xaml",
+              "ToolTip": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_\\Views\\JeuxPage.xaml",
+              "RelativeToolTip": "DevineMoi_\\DevineMoi_\\Views\\JeuxPage.xaml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T11:37:00.827Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "DevineMoi_\\DevineMoi_.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_.Android\\MainActivity.cs",
+              "RelativeToolTip": "DevineMoi_\\DevineMoi_.Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:53:06.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "DevineMoi_\\DevineMoi_.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "DevineMoi_\\DevineMoi_.Android\\Properties\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-12T02:31:08.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcceuillPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_\\Views\\AcceuillPage.xaml.cs",
+              "RelativeDocumentMoniker": "DevineMoi_\\DevineMoi_\\Views\\AcceuillPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_\\Views\\AcceuillPage.xaml.cs",
+              "RelativeToolTip": "DevineMoi_\\DevineMoi_\\Views\\AcceuillPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:09:36.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AcceuillPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_\\Views\\AcceuillPage.xaml",
+              "RelativeDocumentMoniker": "DevineMoi_\\DevineMoi_\\Views\\AcceuillPage.xaml",
+              "ToolTip": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_\\Views\\AcceuillPage.xaml",
+              "RelativeToolTip": "DevineMoi_\\DevineMoi_\\Views\\AcceuillPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-12T02:09:29.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JeuxPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_\\Views\\JeuxPage.xaml.cs",
+              "RelativeDocumentMoniker": "DevineMoi_\\DevineMoi_\\Views\\JeuxPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ABOU-BAKARI\\source\\repos\\DevineMoi\\DevineMoi_\\DevineMoi_\\Views\\JeuxPage.xaml.cs",
+              "RelativeToolTip": "DevineMoi_\\DevineMoi_\\Views\\JeuxPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:55:53.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
